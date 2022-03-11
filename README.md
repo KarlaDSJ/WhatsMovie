@@ -12,3 +12,8 @@ Adicionalmente el programa contar√° con un apartado que clasifique todos los di√
 ## Equipo de trabajo:
 - Daniel, [*DanyDolphin*](https://github.com/DanyDolphin)
 - Karla, [*KarlaDSJ*](https://github.com/KarlaDSJ)
+
+## Dataset:
+- [*Marvel Cinematic Universe*](https://www.kaggle.com/phiitm/marvel-cinematic-universe-dialogue-dataset)
+- [*Christopher Nolan*](https://www.kaggle.com/phiitm/marvel-cinematic-universe-dialogue-dataset)
+- [*Pride & Prejudice*](https://www.kaggle.com/theeranartmeesathien/pride-prejudice-subtitles-and-text)
