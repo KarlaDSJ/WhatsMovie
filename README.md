@@ -1,19 +1,33 @@
 # WhatsMovie
 Procesamiento del lenguaje natural
 
-
 Programa que pretende autocompletar un chat con diálogos de películas.
-
-Ej. El usuario ingresa como entrada el mensaje "Me quieres?" y el programa responderá  "Te quiero 3millones".
-
-
-Adicionalmente el programa contará con un apartado que clasifique todos los diálogos de las películas por sentimiento, mostrando una gráfica, al dar click sobre alguno mostrará todos los diálogos de ese sentimiento.
 
 ## Equipo de trabajo:
 - Daniel, [*DanyDolphin*](https://github.com/DanyDolphin)
 - Karla, [*KarlaDSJ*](https://github.com/KarlaDSJ)
 
+### Con ayuda de:
+- Emilio, [*milmor*](https://github.com/milmor)
+- Víctor, [*VMijangos*](https://github.com/VMijangos)
+
 ## Dataset:
 - [*Marvel Cinematic Universe*](https://www.kaggle.com/phiitm/marvel-cinematic-universe-dialogue-dataset)
 - [*Christopher Nolan*](https://www.kaggle.com/phiitm/marvel-cinematic-universe-dialogue-dataset)
 - [*Pride & Prejudice*](https://www.kaggle.com/theeranartmeesathien/pride-prejudice-subtitles-and-text)
+
+NOTA: Los modelos para RNN y Seq to Seq se encuentran en una carpeta de [*Drive*](https://drive.google.com/drive/folders/1suwOTuJFR9OhBVawD2raKh8CGw1hiTqV?usp=sharing), para correr los notebooks es necesio ponerlas a dentro de la carpeta process/
+
+
+### Práctica 1
+Preprocesar un corpus a partir de métodos basados en lenguajes formales y tokenizarlo en subpalabras.
+
+### Práctica 2 
+Generar un modelo del lenguaje neuronal junto con los embeddings de  ́este, que puedan ser utilizados en otras tareas
+
+### Práctica 3 
+Generación de texto. Para generar texto probamos 3 modelos:
+
+- Red de Bengios
+- Red RNN
+- Red Seq&Seq
