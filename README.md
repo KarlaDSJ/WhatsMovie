@@ -30,4 +30,6 @@ Generación de texto. Para generar texto probamos 3 modelos:
 
 - Red de Bengios
 - Red RNN
-- Red Seq&Seq
+- Red Seq to Seq
+
+Cada modelo propuesto fue mejor que el anterior, al menos en apariencia, siendo el mejor el de la Red Seq to Seq ya que esta red guarda la información del dialogo anterior y al momento de entrenar lo forzamos un poco pasandolé a lo que queremos llegar, sin embargo aunque este modelo genera texto, que en estructura es bueno, si lo ponemos en contexto con el díalogo/query de entrada no tiene tanta relación, además un reto igual de grande que generar texto es encontrar la manera de evaluar que lo que está generando está bien, sin duda fue la parte en la que más batallamos, únicamente medimos la entropia y la perplejidad.
